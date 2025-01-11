@@ -29,5 +29,5 @@ export interface Product {
     name: 'Refresh 17218102',
     imageUrl: 'Refresh.jpg',
     description: 'Zapatilla de hombre, de la marca Refresh. Fabricada en un material que imita la piel. Cierre mediante cordones ajustables. Cómoda planta acolchada. Suela gruesa de goma antideslizante. Un modelo en tendencia esta temporada. Combina y eleva tus looks más casual. Con plantilla extraíble. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales).',
-    price: 24,
+    price: 49.95,
   }];
